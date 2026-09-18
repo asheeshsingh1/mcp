@@ -105,6 +105,7 @@ MCP uses JSON-RPC messages.
 Multiple requests can be in flight, depending on the client and transport implementation.
 
 3. Shut Down
+
 The shutdown phase terminates the MCP connection and releases resources.
 
 Shutdown may occur when:
