@@ -80,7 +80,7 @@
     - prompts/get -> Retrieve a prompt
     - Notifications -> Send updates without expecting a response
 
-### Important Operation Concepts
+Important Operation Concepts
 
 I. Requests and Responses
 
